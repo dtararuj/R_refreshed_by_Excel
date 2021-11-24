@@ -1,2 +1,7 @@
 
-*/attempt*
+*attempt*
+
+*.RData
+
+*.Rhistory
+
